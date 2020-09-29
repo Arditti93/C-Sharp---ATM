@@ -1,0 +1,16 @@
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.csprojAssemblyReference.cache
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.AssemblyInfoInputs.cache
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.AssemblyInfo.cs
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.csproj.CoreCompileInputs.cache
+D:\Coding\master course\c# master\cashMachine\bin\Debug\net5.0\cashMachine.exe
+D:\Coding\master course\c# master\cashMachine\bin\Debug\net5.0\cashMachine.deps.json
+D:\Coding\master course\c# master\cashMachine\bin\Debug\net5.0\cashMachine.runtimeconfig.json
+D:\Coding\master course\c# master\cashMachine\bin\Debug\net5.0\cashMachine.runtimeconfig.dev.json
+D:\Coding\master course\c# master\cashMachine\bin\Debug\net5.0\cashMachine.dll
+D:\Coding\master course\c# master\cashMachine\bin\Debug\net5.0\ref\cashMachine.dll
+D:\Coding\master course\c# master\cashMachine\bin\Debug\net5.0\cashMachine.pdb
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.dll
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\ref\cashMachine.dll
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.pdb
+D:\Coding\master course\c# master\cashMachine\obj\Debug\net5.0\cashMachine.genruntimeconfig.cache
